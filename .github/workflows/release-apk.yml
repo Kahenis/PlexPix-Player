@@ -1,0 +1,19 @@
+name: Release APK
+on:
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          curl -fsSL -o Plex-Pix-Player-1.2.8.apk https://litter.catbox.moe/g6vaoy.apk
+          test -s Plex-Pix-Player-1.2.8.apk
+      - uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.2.8
+          name: Plex-Pix Player 1.2.8
+          body: Version publique 1.2.8 — flèche menu dossiers, cache miniatures, pinch-zoom, jauges.
+          files: Plex-Pix-Player-1.2.8.apk
+          fail_on_unmatched_files: true
