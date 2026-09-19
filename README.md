@@ -4,7 +4,7 @@ Visionneuse **photos et vidéos Plex** android avec fonctions avancées,  compat
 
 "Plex-Pix player" est le player photo/vidéo dédié a  Plex-Photos que l'on attendait depuis longtemps. Il ajoute de nombreux avantages comparés aux quelques fonctions purement basiques de l'application native de plex-photo. 
 
-Il s'adapte donc parfaitement au principe de l'ensemble des applications proposées par Kahenis (Plex-pix pour android TV, Plex-Thumb pour Windows et Plex-pix Player pour Android classique) : Proposé aux utilisateurs de catégories "photo", tous les outils nécessaires pour une exploitation pleine et entière d'un photothèque de qualité. 
+Il s'adapte donc parfaitement au principe de l'ensemble des applications proposées par Kahenis (Plex-pix pour android TV, Plex-Thumb pour Windows et Plex-pix Player pour Android classique) : Proposer aux utilisateurs de catégories "photo" des serveurs plex, tous les outils nécessaires pour une exploitation pleine et entière d'un photothèque de qualité. 
  
 ## Captures d'écran
 
