@@ -1,6 +1,26 @@
 # Plex-Pix Player
 
-Visionneuse **photos et vidéos Plex** avancée pour smartphone Android (portrait, paysage, pliant).
+Visionneuse **photos et vidéos Plex** avancée pour smartphone Android.
+
+Compatible avec **tous les formats de smartphones** : écrans fins, formats classiques, paysage et **smartphones pliants** (détection automatique de la largeur).
+
+## Captures d'écran
+
+**Grille — smartphone standard (portrait, ~6,7")**
+
+![Grille sur smartphone standard](docs/screenshots/grille-standard.jpg)
+
+**Grille — smartphone fin / pliant fermé (portrait)**
+
+![Grille sur écran fin](docs/screenshots/grille-fin.jpg)
+
+**Lecteur — smartphone fin (portrait)**
+
+![Lecteur photo et vidéo](docs/screenshots/lecteur-fin.jpg)
+
+**Grille — smartphone pliant ouvert (écran large)**
+
+![Grille sur écran large pliant](docs/screenshots/grille-pliant.jpg)
 
 ## Version actuelle : 1.3.4
 
