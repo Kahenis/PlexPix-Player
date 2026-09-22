@@ -28,9 +28,15 @@ Il s'adapte donc parfaitement au principe de l'ensemble des applications propos�
 <img width="960" height="617" alt="AGTao" src="https://github.com/user-attachments/assets/565ea99f-7b1f-4cfd-887f-b06310db93ab" />
 
 
-## Version actuelle : 1.3.4
+## Version actuelle : 1.3.8
 
 APK : voir les [Releases](https://github.com/Kahenis/PlexPix-Player/releases).
+
+### 1.3.8
+- Appui long **2 secondes** sur une miniature : Partager, Télécharger, Supprimer (serveur Plex + cache local).
+- Suppression avec confirmation.
+- Menu Android « enregistrer l’image » désactivé pendant l’appui.
+- Correction du packaging APK (installation par-dessus la 1.3.4).
 
 ### 1.3.4
 - Lecteur vidéo : lecture / pause / stop et **ligne de temps** (jauge de position), placés hors de la pellicule.
@@ -48,3 +54,4 @@ APK : voir les [Releases](https://github.com/Kahenis/PlexPix-Player/releases).
 - Ascenseur de dates dans la grille
 - Taille des miniatures réglable (très compact → très grand)
 - Adaptation automatique portrait / paysage / pliant
+- Appui long : partage, téléchargement, suppression
